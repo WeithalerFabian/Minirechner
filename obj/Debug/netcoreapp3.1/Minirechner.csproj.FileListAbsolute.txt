@@ -1,0 +1,13 @@
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\bin\Debug\netcoreapp3.1\Minirechner.exe
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\bin\Debug\netcoreapp3.1\Minirechner.deps.json
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\bin\Debug\netcoreapp3.1\Minirechner.runtimeconfig.json
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\bin\Debug\netcoreapp3.1\Minirechner.runtimeconfig.dev.json
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\bin\Debug\netcoreapp3.1\Minirechner.dll
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\bin\Debug\netcoreapp3.1\Minirechner.pdb
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\obj\Debug\netcoreapp3.1\Minirechner.csprojAssemblyReference.cache
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\obj\Debug\netcoreapp3.1\Minirechner.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\obj\Debug\netcoreapp3.1\Minirechner.AssemblyInfoInputs.cache
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\obj\Debug\netcoreapp3.1\Minirechner.AssemblyInfo.cs
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\obj\Debug\netcoreapp3.1\Minirechner.dll
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\obj\Debug\netcoreapp3.1\Minirechner.pdb
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Minirechner\Minirechner\obj\Debug\netcoreapp3.1\Minirechner.genruntimeconfig.cache
