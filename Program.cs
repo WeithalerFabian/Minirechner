@@ -52,6 +52,14 @@ namespace Minirechner
 
                     break;
 
+                case 2:
+
+                    Ergebnis = Subtrahieren(Zahl1, Zahl2);
+
+                    Console.WriteLine(Zahl1 + " - " + Zahl2 + " = " + Ergebnis);
+
+                    break;
+
             }
 
 
@@ -63,6 +71,12 @@ namespace Minirechner
         static int Addieren(int zahl1, int zahl2)
         {
             int Lösung = zahl1 + zahl2;
+            return Lösung;
+        }
+
+        static int Subtrahieren(int zahl1, int zahl2)
+        {
+            int Lösung = zahl1 - zahl2;
             return Lösung;
         }
     }
