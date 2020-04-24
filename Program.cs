@@ -68,6 +68,14 @@ namespace Minirechner
 
                     break;
 
+                case 4:
+
+                    Ergebnis = Dividieren(Zahl1, Zahl2);
+
+                    Console.WriteLine(Zahl1 + " / " + Zahl2 + " = " + Ergebnis);
+
+                    break;
+
             }
 
 
@@ -91,6 +99,12 @@ namespace Minirechner
         static int Multiplizieren(int zahl1, int zahl2)
         {
             int Lösung = zahl1 * zahl2;
+            return Lösung;
+        }
+
+        static int Dividieren(int zahl1, int zahl2)
+        {
+            int Lösung = zahl1 / zahl2;
             return Lösung;
         }
     }
